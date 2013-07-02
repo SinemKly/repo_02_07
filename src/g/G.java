@@ -16,7 +16,8 @@ public class G {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("abc");
-        
+        System.out.println("hakan");
+        System.out.println("kadir");
+         
     }
 }
