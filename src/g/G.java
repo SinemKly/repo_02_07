@@ -18,6 +18,8 @@ public class G {
         
         System.out.println("hakan");
         System.out.println("kadir");
+        System.out.println("hakan");
+        System.out.println("kadir");
          
     }
 }
